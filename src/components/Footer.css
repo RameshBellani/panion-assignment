@@ -1,0 +1,25 @@
+.buttons {
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 12px;
+}
+
+.span-element{
+    color : rgb(241, 241, 35);
+
+    font-weight: bold;
+}
+.container-buttons{
+    display: flex;
+    flex-direction: row;
+
+}
+.button{
+    background-color: blueviolet;
+    color: white;
+    padding: 12px;
+}
+.fotter{
+    display: flex;
+    justify-content: space-between;
+}
